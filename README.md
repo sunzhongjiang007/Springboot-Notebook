@@ -4,9 +4,7 @@
 本着拿来即用的原则，助力于减少开发者在工作中的学习成本。
 
 
-> 案例详细教程同步在 个人公众号：**程序员内点事** , 欢迎交流指正。
 
-<img src='https://raw.githubusercontent.com/chengxy-nds/Springboot-Notebook/master/wx/gonghao.jpg' width="200" height="200">
 
 ### Springboot 开发技巧
 
